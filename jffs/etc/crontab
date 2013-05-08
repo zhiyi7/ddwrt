@@ -1,0 +1,2 @@
+0 4 */7 * * root /jffs/vpn/gen-cn-ip-routes.sh >/dev/null 2>&1
+30 4 * * * root /jffs/vpn/gen-dnsmasq.php >/dev/null 2>&1
