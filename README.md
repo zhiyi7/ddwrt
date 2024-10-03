@@ -1,9 +1,6 @@
 DD-WRT 用的一些脚本
 =====================
 
-[@我是志一](http://weibo.com/liuzhiyi)  
-Blog: [一路凯歌 | 技术博客](http://zhiyi.us "一路凯歌 | 技术博客")
-
 当前支持：
 
 * 无缝 Cross Wall（PPTP方式）
